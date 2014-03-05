@@ -1,0 +1,70 @@
+= LudwenicFont
+:docinfo:
+:icons: font
+:toc:
+
+https://myuon.github.io/Ludwenics/magical/LudwenicFont.html
+
+== 文字
+
+=== アルファベット順
+
+*大文字 [ludwen big]#ABCDEFGHIJKLMNOPQRSTUVWXYZ#*
+
+*小文字 [ludwen big]#abcdefghijklmnopqrstuvwxyz#*
+
+=== 対応表
+
+[width="80%",cols="^2,^2,^2,10"]
+|===========================
+|アルファベット|大文字|小文字|語源
+
+|A|[ludwen]#A#|[ludwen]#a#|
+|B|[ludwen]#B#|[ludwen]#b#|
+|C|[ludwen]#C#|[ludwen]#c#|
+|D|[ludwen]#D#|[ludwen]#d#|
+|E|[ludwen]#E#|[ludwen]#e#|
+|F|[ludwen]#F#|[ludwen]#f#|
+|G|[ludwen]#G#|[ludwen]#g#|
+|H|[ludwen]#H#|[ludwen]#h#|
+|I|[ludwen]#I#|[ludwen]#i#|
+|J|[ludwen]#J#|[ludwen]#j#| `j` を含む言葉を音写するために後から付け加えられた文字。 `i` と同じ口の形で舌をどこにも付けずに発声することで発音する。外来語の表記以外では使われない。
+|K|[ludwen]#K#|[ludwen]#k#|
+|L|[ludwen]#L#|[ludwen]#l#|高いところ、転じて天界を表す文字。天界にはミーベが住んでいることからミーべを暗に表すこともある。
+|M|[ludwen]#M#|[ludwen]#m#|
+|N|[ludwen]#N#|[ludwen]#n#|
+|O|[ludwen]#O#|[ludwen]#o#|
+|P|[ludwen]#P#|[ludwen]#p#|
+|Q|[ludwen]#Q#|[ludwen]#q#|地界を表す文字。地上を支配していることから魔王を意味することもある。
+|R|[ludwen]#R#|[ludwen]#r#|
+|S|[ludwen]#S#|[ludwen]#s#|「ヒト」を表す文字で、古い名前はたいていこの文字を含む。
+|T|[ludwen]#T#|[ludwen]#t#|
+|U|[ludwen]#U#|[ludwen]#u#|
+|V|[ludwen]#V#|[ludwen]#v#|
+|W|[ludwen]#W#|[ludwen]#w#| `wa/wu/wo` を含む言葉を音写するために後から付け加えられた文字。外来語の表記以外では使われない。
+|X|[ludwen]#X#|[ludwen]#x#|
+|Y|[ludwen]#Y#|[ludwen]#y#|
+|Z|[ludwen]#Z#|[ludwen]#z#| `z` を含む言葉を音写するために後から付け加えられた文字。 `L` と同じ発音で有声音として発声する。外来語の表記以外では使われない。
+
+|===
+
+== 例
+
+[width="50%",cols="1,2"]
+|===
+|English|Ludwenic
+
+|Sarriel|[ludwen]#Sarriel#
+|Leaf   |[ludwen]#Leaf#
+|Lufe   |[ludwen]#Lufe#
+|Mallemie|[ludwen]#Mallemie#
+|Elumie |[ludwen]#Elumie#
+|Reica  |[ludwen]#Reica#
+|Swen   |[ludwen]#Swen#
+|Naira  |[ludwen]#Naira#
+|Shigule|[ludwen]#Shigule#
+|Deel   |[ludwen]#Deel#
+|Reimirr|[ludwen]#Reimirr#
+|Marf   |[ludwen]#Marf#
+|Lina   |[ludwen]#Lina#
+|===
