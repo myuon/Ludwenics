@@ -15,6 +15,7 @@
 ==========
 
 ![ルーフェ](lufe2.png)
+![ルーフェ](lufe3.png)
 ![エルミエ](elumie2.png)
 ![レイカ](reica2.png)
 ![天界人](heaven_people.png)
